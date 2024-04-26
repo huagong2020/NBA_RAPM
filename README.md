@@ -1,1 +1,1 @@
-NBA regular season stint data from 1997 to 20024
+NBA regular season stint data from 1997 to 2024
