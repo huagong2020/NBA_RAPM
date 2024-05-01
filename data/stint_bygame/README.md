@@ -1,1 +1,3 @@
 stint by game data from 1997 to 2024
+
+points
