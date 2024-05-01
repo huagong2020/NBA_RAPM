@@ -1,4 +1,4 @@
-# nba regular season schedule data from 1997 to 2024 with betting odds data from 2008 to 2022.
+# nba regular season schedule data from 1997 to 2024 with betting odds data added from 2008 to 2022.
 
 **Close**: points spread from the betting market.
 
