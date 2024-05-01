@@ -1,4 +1,6 @@
-NBA stint data from 1997 to 2024 organized by NBA game id
+#NBA stint data from 1997 to 2024 organized by NBA game id
+
+Variables:
 
 **points**: total points scored by the offensive team in a stint
 
